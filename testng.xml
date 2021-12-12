@@ -5,8 +5,10 @@
     <classes>
       <class name="scripts.Testacse1"/>
       <class name="scripts.Testacse4"/>
+      <class name="scripts.Testacse5"/>
       <class name="scripts.Testacse2"/>
       <class name="scripts.Testacse3"/>
+      <class name="scripts.Testacse6"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
